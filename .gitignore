@@ -1,0 +1,11 @@
+/.DS_Store
+/.ipynb_checkpoints
+/.vscode
+/Pipfile
+/Pipfile.lock
+/data
+/iris-data.csv
+/iris.csv
+/sample.ipynb
+/test.py
+/winequality-red.csv
